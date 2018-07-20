@@ -8,7 +8,7 @@ body {
 div {
   width:700px;
   margin:auto;
-  font-family:"helvetica neue;"
+  font-family:"helvetica neue; background:white;"
 
   /* Your code here! */
 }
@@ -22,5 +22,6 @@ div {
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
+  font-style:italic;
   /* Your code here! */
 }
